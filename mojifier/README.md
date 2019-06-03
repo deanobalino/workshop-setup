@@ -5,15 +5,15 @@ This repository is purely for the setup instructions for the workshop, it isn't 
 
 # Getting Started
 
-## Install Docker
+## 1. Install Docker
 
 You will **need** to have Docker installed on your local machine. You can follow instructions to install [here](https://docs.docker.com/install/). 
 
-## Install Visual Studio Code (Insiders Edition)
+## 2. Install Visual Studio Code (Insiders Edition)
 
 To support the remote development environments we will be using in this workshop you will need to use the Insiders edition of VS Code. You can download and install it from [here](https://code.visualstudio.com/insiders/)
 
-## Install the Remote Development Extension
+## 3. Install the Remote Development Extension
 
 ![remote install](dev-remote-ext.gif)
 
@@ -22,7 +22,7 @@ To support the remote development environments we will be using in this workshop
 3. Install the extension
 4. Reload VS Code (Insiders)
 
-## Clone the workshop repository
+## 4. Clone the workshop repository
 
 Perform the following commnand in a terminal window.
 
@@ -31,7 +31,7 @@ git clone https://github.com/deanobalino/mslearn-the-mojifier.git
 ```
 
 
-## Activate Remote Development
+## 5. Activate Remote Development
 
 1. Open the `mslearn-the-mojifier` directory within VSCode Insiders
 2. When you open the project you should be prompted to 'Reopen in Container' 
