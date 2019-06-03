@@ -33,7 +33,7 @@ git clone https://github.com/deanobalino/mslearn-the-mojifier.git
 
 ## 5. Activate Remote Development
 
-1. Open the `mslearn-the-mojifier` directory within VSCode Insiders
+1. Open the `mslearn-the-mojifier` directory, that we just cloned, within VSCode Insiders
 2. When you open the project you should be prompted to 'Reopen in Container' 
 
 ![run in container](run-in-container.png)
